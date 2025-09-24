@@ -1,2 +1,6 @@
-// Exercice 3
-// Écrivez votre code ici
+//
+const ville = "kinshasa";
+
+//affichage
+
+console.log(ville)
