@@ -18,8 +18,8 @@ let âgeGrandpère = (âgeMère * 2) + (âgeEnfant / 2)
 
 let âgeOncle = âgePère + 10 ;
 
-console.log("l'âge de l'Enfant est de :" + âgeEnfant)
-console.log("l'âge du père est de :" + âgePère)
-console.log("l'âge de la mère est de :" + âgeMère)
-console.log("l'âge du grang-père est de :" + âgeGrandpère)
-console.log("l'âge de l'oncle est de :" + âgeOncle)
+console.log("l'âge de l'Enfant =" + âgeEnfant)
+console.log("l'âge du père est =" + âgePère)
+console.log("l'âge de la mère est =" + âgeMère)
+console.log("l'âge du grang-père est =" + âgeGrandpère)
+console.log("l'âge de l'oncle est =" + âgeOncle)
