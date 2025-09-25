@@ -1,4 +1,4 @@
-// Ajout de la valeur kadea à la variable
+// Ajout de la valeur kadea à une variable
 
 let nom = "kadea";
 
