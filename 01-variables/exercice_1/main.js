@@ -1,5 +1,4 @@
-// ce programme affiche un massage "hello world"
-
+// ce programme affiche un message "hello world"
 let message="hello world";
-
+//affichage
 console.log(message)
