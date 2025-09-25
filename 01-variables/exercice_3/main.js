@@ -1,4 +1,4 @@
-//
+// utiliser un constante
 const ville = "kinshasa";
 
 //affichage
