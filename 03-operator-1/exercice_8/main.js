@@ -30,9 +30,9 @@ let reste =SalaireMensuel - somme ;
 //Affichage
 
 console.log("Le Salairemensuel est de :" + SalaireMensuel)
-console.log("Le loyer est de :" + loyer)
-console.log("La Nourriture est de :" + Nourriture)
-console.log("Le Transport est de :" + Transport)
-console.log("Les Autresdepenses sont de :" + Autresdepenses)
-console.log("La somme est de :" + somme)
-console.log("Le Reste est de :" + reste)
+console.log("Le loyer est =" + loyer)
+console.log("La Nourriture =" + Nourriture)
+console.log("Le Transport =" + Transport)
+console.log("Les Autresdepenses sont =" + Autresdepenses)
+console.log("La somme est =" + somme)
+console.log("Le Reste est =" + reste)
