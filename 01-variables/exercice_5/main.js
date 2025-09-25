@@ -1,4 +1,4 @@
-// Déclarer une variable pour la température en Celsius
+// une variable pour la température en Celsius
 
 let celsius = 25; // tu peux changer cette valeur
 
