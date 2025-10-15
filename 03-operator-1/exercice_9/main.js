@@ -10,22 +10,22 @@ let somme = a + b + c ;
 let categoriesA = somme / 100 * 75 ;
 
 // Répartition de la catégorie A en trois parts égales
-let Paul = categoriesA / 3 ;
-let Marie = categoriesA / 3 ;
-let EricetClaire = categoriesA / 3 / 2 ; // Chaque part de la troisième portion est divisée en deux
+let paul = categoriesA / 3 ;
+let marie = categoriesA / 3 ;
+let ericetClaire = categoriesA / 3 / 2 ; // Chaque part de la troisième portion est divisée en deux
 
 // Catégorie B représente 25% de la somme
 let categoriesB = somme / 100 * 25 ;
 
 // Répartition de la catégorie B en trois parts égales
-let Mmemukuna = categoriesB / 3 ;
-let Joseph = categoriesB / 3 ;
-let Sarah = categoriesB / 3 ;
+let mmemukuna = categoriesB / 3 ;
+let joseph = categoriesB / 3 ;
+let sarah = categoriesB / 3 ;
 
 // Affichage des résultats
-console.log("Paul reçoit : " + Paul)
-console.log("Marie reçoit : " +  Marie)
-console.log("Eric et Claire reçoivent chacun : " +  EricetClaire)
-console.log("Madame MUKUNA reçoit : " +  Mmemukuna)
-console.log("Joseph reçoit : " + Joseph)
-console.log("Sarah reçoit : " + Sarah)
+console.log("Paul reçoit : " + paul)
+console.log("Marie reçoit : " +  marie)
+console.log("Eric et Claire reçoivent chacun : " +  ericetClaire)
+console.log("Madame MUKUNA reçoit : " +  mmemukuna)
+console.log("Joseph reçoit : " + joseph)
+console.log("Sarah reçoit : " + sarah)

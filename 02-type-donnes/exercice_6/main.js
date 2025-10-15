@@ -11,11 +11,11 @@ let estConnecte = true;
 let valeurNulle = null;
 
 //  Variable déclarée mais sans valeur
-let inconnue;
+let valeurInconnue;
 
 // Affichage de toutes les variables
 console.log(age);         // 25
 console.log(nom);         // "Léonard"
 console.log(estConnecte); // true
 console.log(valeurNulle); // null
-console.log(inconnue);    // undefined
+console.log(valeurInconnue);    // undefined

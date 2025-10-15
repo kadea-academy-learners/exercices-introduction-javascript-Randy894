@@ -9,3 +9,4 @@ let somme =a + b
 
 // affichage de la somme
 console.log("La somme est de :" + somme)
+

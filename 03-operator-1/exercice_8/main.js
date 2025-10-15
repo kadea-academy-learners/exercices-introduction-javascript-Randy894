@@ -16,8 +16,8 @@ let Transport = 0.10 * SalaireMensuel ;
 
 //valeur ajouter aux autres dépenses
 
-let Autresdepenses = 50 ;
-Autresdepenses += 25 ;
+let Autresdepenses = SalaireMensuel * 0.15 ;
+
 
 //calcule de la somme
 
@@ -29,10 +29,10 @@ let reste =SalaireMensuel - somme ;
 
 //Affichage
 
-console.log("Le Salairemensuel est de :" + SalaireMensuel)
-console.log("Le loyer est =" + loyer)
-console.log("La Nourriture =" + Nourriture)
-console.log("Le Transport =" + Transport)
-console.log("Les Autresdepenses sont =" + Autresdepenses)
-console.log("La somme est =" + somme)
-console.log("Le Reste est =" + reste)
+console.log("Le Salairemensuel est de :" + SalaireMensuel);
+console.log("Le loyer est =" + loyer);
+console.log("La Nourriture =" + Nourriture);
+console.log("Le Transport =" + Transport);
+console.log("Les Autresdepenses sont =" + Autresdepenses);
+console.log("La somme est =" + somme);
+console.log("Le Reste est =" + reste);
