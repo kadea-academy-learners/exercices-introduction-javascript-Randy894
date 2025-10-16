@@ -1,26 +1,26 @@
 // Déclaration des montants de départ
-let a = 60000000 ;
-let b = 40000000 ;
-let c = 20000000 ;
+const a = 60000000 ;
+const b = 40000000 ;
+const c = 20000000 ;
 
 // Somme totale des montants
-let somme = a + b + c ;
+const somme = a + b + c ;
 
 // Catégorie A représente 75% de la somme
-let categoriesA = somme / 100 * 75 ;
+const categoriesA = somme / 100 * 75 ;
 
 // Répartition de la catégorie A en trois parts égales
-let paul = categoriesA / 3 ;
-let marie = categoriesA / 3 ;
-let ericetClaire = categoriesA / 3 / 2 ; // Chaque part de la troisième portion est divisée en deux
+const paul = categoriesA / 3 ;
+const marie = categoriesA / 3 ;
+const ericetClaire = categoriesA / 3 / 2 ; // Chaque part de la troisième portion est divisée en deux
 
 // Catégorie B représente 25% de la somme
-let categoriesB = somme / 100 * 25 ;
+const categoriesB = somme / 100 * 25 ;
 
 // Répartition de la catégorie B en trois parts égales
-let mmemukuna = categoriesB / 3 ;
-let joseph = categoriesB / 3 ;
-let sarah = categoriesB / 3 ;
+const mmemukuna = categoriesB / 3 ;
+const joseph = categoriesB / 3 ;
+const sarah = categoriesB / 3 ;
 
 // Affichage des résultats
 console.log("Paul reçoit : " + paul)
